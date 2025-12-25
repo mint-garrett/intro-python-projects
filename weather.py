@@ -1,4 +1,6 @@
 #poke api use
+### simplified pokedex. imput pokemon's name, and you will get the nat dex#, color, types, and the first english pokedex description
+
 ##imports
 import requests
 import time
@@ -70,4 +72,5 @@ print("---------------")
 
 ##dex info
 print(f"A pokedex entry: {general_flavor}")
+
 print("---------------")
