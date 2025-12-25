@@ -1,4 +1,5 @@
 #poke api use
+#this was intentionally supposed to use open weather api, but i decided to switch to poke api and never changed the name
 ### simplified pokedex. imput pokemon's name, and you will get the nat dex#, color, types, and the first english pokedex description
 
 ##imports
@@ -74,3 +75,4 @@ print("---------------")
 print(f"A pokedex entry: {general_flavor}")
 
 print("---------------")
+
