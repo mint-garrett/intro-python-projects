@@ -1,0 +1,10 @@
+{
+    "traffic_pattern": "two-lane traffic",
+    "light_cycles": 3,
+    "light_patterns":
+    [
+        {"color": "red", "time": 5},
+        {"color": "yellow", "time": 3},
+        {"color": "green", "time" : 4}
+    ]
+}
